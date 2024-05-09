@@ -22,4 +22,4 @@ B/E Member
 - Git : [KGH Kascald](https://github.com/Kascald)
 - Git : [하동원 dd2558](https://github.com/dd2558)
 
-![mycarlong_Logo v2](https://github.com/MyCarLong/.github/assets/118609415/51b236d6-e4bb-4ad3-8880-a241b857b929)
+<!--![mycarlong_Logo v2](https://github.com/MyCarLong/.github/assets/118609415/51b236d6-e4bb-4ad3-8880-a241b857b929)-->
