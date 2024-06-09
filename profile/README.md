@@ -11,7 +11,7 @@
 
 ## 우리의 프로젝트
 
-** MyCarLong **
+### MyCarLong
 [Back-End](https://github.com/MyCarLong/MyCarLong)
 [Front-End](https://github.com/MyCarLong/MyCarLong-Front)
 
