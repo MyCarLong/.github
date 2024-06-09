@@ -12,7 +12,18 @@
 ## 우리의 프로젝트
 
 ### MyCarLong
-[Back-End](https://github.com/MyCarLong/MyCarLong)
+
+마카롱을 사용하여 자동차 관련 정보를 손쉽게 찾아보세요:
+
+1. **🔍 주변 시설 검색**: 현재 위치를 기반으로 가까운 주유소, 서비스 센터, 주차장, 세차장 등을 찾아보세요.
+2. **🤖 AI 챗봇 사용**: AI 챗봇에게 자동차 관련 질문을 물어보세요. 신속하고 정확한 답변을 받을 수 있습니다.
+3. **🏎️ 커뮤니티 참여**: **모두의차고** 커뮤니티에서 다른 사용자들과 경험과 정보를 공유해보세요.
+4. **📊 자동차 제원 조회**: 다양한 차량의 상세 제원과 성능 정보를 확인해보세요.
+
+마카롱과 함께 더 편리하고 스마트한 자동차 생활을 경험해 보세요!
+
+[Back-End](https://github.com/MyCarLong/MyCarLong) <br>
+
 [Front-End](https://github.com/MyCarLong/MyCarLong-Front)
 
 
